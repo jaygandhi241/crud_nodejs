@@ -147,23 +147,10 @@ table{
     margin: 4em 0;
 }
 
-/* #update_user .form-group input{type="text"}{
-   width: ;
-} */
 #update_user .form-group .radio{
     margin: 1em 2em;
 }
-/* .radio input[type="radio"]:checked+ .radio-label:before{
-    background-color: cyan;
-    box-shadow: inset 0 0 04px white;
-}
-.radio input[type="radio"]:focus+ .radio-label:before{
-    outline: none;
-} */
-/* .radio input[type="radio"]:disabled+ .radio-label:before{
-    box-shadow: inset 0 0 04px white;
-    border-color: white;
-} */
+
 
 #add_user .form-group .btn, #update_user .form-group .btn{
     width: 30%;
